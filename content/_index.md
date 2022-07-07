@@ -4,7 +4,7 @@ title: 🪴 Quartz 3.2
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
-[💡_Ильенков_ Учиться мыслить](notes/💡_Ильенков_%20Учиться%20мыслить.md)
+[💡_Ильенков_ Учиться мыслить](notes/💡_Ильенков_-Учиться%20мыслить.md)
 
 1. Extremely fast full-text search by pressing `Ctrl` + `k`
 2. Customizable and hackable design based on Hugo
